@@ -15,4 +15,4 @@ N - total number of fish in the group
 ___
 
 ## Data analysis notebooks
-Free Swimming Experiment with Danio rerio (zebrafish) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link here) |
+Free Swimming Experiment with Giant danio: Trajectories' main features - T0 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([link here](https://colab.research.google.com/drive/1zdjIDfYdE1TJ09DNxf62aHNHUrA4Yzzm?authuser=1#scrollTo=IEqTMwkCd5G6) |
