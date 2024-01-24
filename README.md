@@ -16,3 +16,5 @@ ___
 
 ## Data analysis notebooks
 Free Swimming Experiment with Giant danio: Trajectories' main features - T0 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zdjIDfYdE1TJ09DNxf62aHNHUrA4Yzzm?authuser=1#scrollTo=IEqTMwkCd5G6)
+Free Swimming Experiment with Giant danio: Animals' distribution in the arena - T1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14AW-60MEVdANLrRfvo6iIv6KlR8nw9WY?authuser=1#scrollTo=JRONY2jEbPwS)*
+Free Swimming Experiment with Giant danio: Collective beahviour - T3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uhMJizW5ORqbK3ebXWRGYlAIuk4mdIGM?authuser=1#scrollTo=BMhZpHujZf1k)
